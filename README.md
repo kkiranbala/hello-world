@@ -1,2 +1,2 @@
 # hello-world
-This is the vision of what the world could be
+A million dreams is all its gonna take
